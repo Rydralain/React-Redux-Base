@@ -1,0 +1,24 @@
+{
+  "name": "gtn",
+  "version": "1.0.0",
+  "description": "Genetic Trait Notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rydralain/GTN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rydralain/GTN/issues"
+  },
+  "homepage": "https://github.com/Rydralain/GTN#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.5"
+  }
+}
